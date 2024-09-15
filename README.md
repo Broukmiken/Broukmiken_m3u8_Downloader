@@ -4,6 +4,16 @@ Actuellement version 1.0
 
 
 
+Broukmiken_m3u8_Downloader est un programme qui permet de télécharger une vidéo diffusée via un flux m3u8
+
+Le programme se charge d'analyser les différentes langues disponibles ainsi que les différentes résolutions existantes.
+
+
+Différentes focntions sont incluses en silence:
+
+-vérification d'existance d'une mise à jour du programme
+
+-vérification que FFmpeg existe
 
 
 
