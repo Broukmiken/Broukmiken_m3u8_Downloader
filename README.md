@@ -18,9 +18,13 @@ Différentes focntions sont incluses en silence:
 
 -vérification que FFmpeg existe
 
+Voici quelques vidéos d'explications
 
 
 [![Installer FFmpeg sur windows 11](https://img.youtube.com/vi/lHnszz5V0as/0.jpg)](https://www.youtube.com/watch?v=lHnszz5V0as "Installer FFmpeg sur windows 11")
+
+
+[![Récupérer l'url du flux m3u8](https://img.youtube.com/vi/Z5Ni5sVbq94/0.jpg)](https://www.youtube.com/watch?v=Z5Ni5sVbq94 "Récupérer l'url du flux m3u8")
 
 
 
