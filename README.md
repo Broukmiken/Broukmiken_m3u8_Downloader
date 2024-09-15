@@ -24,20 +24,20 @@ Différentes fonctions sont incluses en arrière-plan (silence) :
 /!\ ce programme ne marche que pour les flux de vidéo en streaming sous la forme m3u8
 
 <ins>nb: Une autre méthode est nécessaire pour les flux en .MPD que Broukmiken m3u8 Downloader NE PERMET PAS</ins>
-<br/><br/><br/>
+<br/><br/><br/><br/>
  $${\color{lightgreen} Voici \space quelques \space vidéos \space d'AIDE }$$
-
+<br/><br/><br/>
 
 TUTORIEL: COMMENT INSTALLER FFMPEG SUR WINDOWS 11 (indispensable)
-
+<br/><br/>
 [![Installer FFmpeg sur windows 11](https://img.youtube.com/vi/lHnszz5V0as/0.jpg)](https://www.youtube.com/watch?v=lHnszz5V0as "Installer FFmpeg sur windows 11")
 
 
-<br/><br/><br/>
+<br/><br/>
 
 
 TUTORIEL: COMMENT RECUPERER L'URL m3u8 d'une vidéo en streaming SUR WINDOWS 11 (indispensable)
-
+<br/><br/>
 [![Récupérer l'url du flux m3u8](https://img.youtube.com/vi/Z5Ni5sVbq94/0.jpg)](https://www.youtube.com/watch?v=Z5Ni5sVbq94 "Récupérer l'url du flux m3u8")
 
 <br/><br/><br/>
