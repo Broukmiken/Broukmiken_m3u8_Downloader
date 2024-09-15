@@ -4,7 +4,7 @@ Actuellement version 1.0
 
 <br/><br/>
 
-Broukmiken_m3u8_Downloader est un programme qui permet de télécharger une vidéo diffusée via un flux m3u8
+<code style="color : greenyellow">Broukmiken_m3u8_Downloader est un programme qui permet de télécharger une vidéo diffusée via un flux m3u8</code>
 <br/><br/><br/>
 Comme par exemple F1TV qui diffuse ses flux en m3u8  ![output-onlinepngtools](https://github.com/user-attachments/assets/0adb06b5-83b8-4566-b477-1aa99e383947)
 
