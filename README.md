@@ -15,8 +15,6 @@ Actuellement version 1.0
 
 
 
-
-
 <img src="https://private-user-images.githubusercontent.com/109454001/367586631-58d21ac3-8a4d-400d-be5f-477662960599.png" width="100" height="100">
 
 
