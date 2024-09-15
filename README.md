@@ -12,7 +12,7 @@ Actuellement version 1.0
 
 
 
-![](https://private-user-images.githubusercontent.com/109454001/367586631-58d21ac3-8a4d-400d-be5f-477662960599.png =250x250)
+![](https://private-user-images.githubusercontent.com/109454001/367586631-58d21ac3-8a4d-400d-be5f-477662960599.png)
 
 
 
