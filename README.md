@@ -1,6 +1,6 @@
 # $${\color{red}Broukmiken \space  m3u8 \space Downloader}$$
 
-Actuellement version 1.1
+Actuellement version 0
 
 
 <br/><br/>
