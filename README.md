@@ -25,7 +25,7 @@ Différentes fonctions sont incluses en arrière-plan (silence) :
 
 Une autre méthode est nécessaire pour les flux en .MPD
 <br/><br/><br/>
-Voici quelques vidéos d'explications
+ $${\color{lightgreen} Voici \space quelques \space vidéos \space d'AIDE }$$
 
 
 TUTORIEL: COMMENT INSTALLER FFMPEG SUR WINDOWS 11 (indispensable)
