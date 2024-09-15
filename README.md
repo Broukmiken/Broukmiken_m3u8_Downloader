@@ -17,17 +17,18 @@ Comme par exemple F1TV   ![output-onlinepngtools](https://github.com/user-attach
 Le programme se charge d'analyser les différentes langues disponibles ainsi que les différentes résolutions existantes.
 
 
-Différentes focntions sont incluses en silence:
+Différentes fonctions sont incluses en arrière-plan (silence) :
 
 -vérification d'existance d'une mise à jour du programme
 
 -vérification que FFmpeg existe
 
+
+/!\ ce programme ne marche que pour les flux de vidéo en streaming sous la forme m3u8
+
+Une autre méthode est nécessaire pour les flux en .MPD
+
 Voici quelques vidéos d'explications
-
-
-
-
 
 
 TUTORIEL: COMMENT INSTALLER FFMPEG SUR WINDOWS 11 (indispensable)
