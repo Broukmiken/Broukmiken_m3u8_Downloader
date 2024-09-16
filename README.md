@@ -33,6 +33,8 @@ On choisi la résolution et on peut mettre 1 ou 2 langues ( la 1ere langue sera 
 
 
 ![Capture d'écran 2024-09-16 231736](https://github.com/user-attachments/assets/2df052c1-68d0-4699-a03d-09eade650836)
+<br/><br/>
+![Capture d'écran 2024-09-16 232019](https://github.com/user-attachments/assets/11861a7e-1f3e-4208-bce1-bd176db17b50)
 
 
 
