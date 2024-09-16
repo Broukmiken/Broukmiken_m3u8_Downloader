@@ -30,12 +30,18 @@ On choisi la résolution et on peut mettre 1 ou 2 langues ( la 1ere langue sera 
 <br/>
 <br/><br/><br/><br/>
 
+
+
+![Capture d'écran 2024-09-16 231736](https://github.com/user-attachments/assets/2df052c1-68d0-4699-a03d-09eade650836)
+
+
+
 ${\color{green}Voici \space quelques \space vidéos \space d'AIDE }$
 <br/>
 <br/>
 <br/>
 
-![Capture d'écran 2024-09-16 231736](https://github.com/user-attachments/assets/2df052c1-68d0-4699-a03d-09eade650836)
+
 
 
 TUTORIEL: COMMENT INSTALLER FFMPEG SUR WINDOWS 11 (indispensable)
