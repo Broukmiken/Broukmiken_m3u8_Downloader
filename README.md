@@ -24,6 +24,8 @@ Différentes fonctions sont incluses en arrière-plan (silence) :
 
 /!\ ce programme ne marche que pour les flux de vidéo en streaming sous la forme m3u8
 
+On choisi la résolution et on peut mettre 1 ou 2 langues ( la 1ere langue sera la langue par défaut, interprétée comme telle dans vlc par exemple)
+
 <ins>nb: Une autre méthode est nécessaire pour les flux en .MPD que Broukmiken m3u8 Downloader NE PERMET PAS</ins>
 <br/>
 <br/><br/><br/><br/>
