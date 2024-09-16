@@ -17,7 +17,7 @@ Le programme se charge d'analyser les différentes langues disponibles ainsi que
 
 Différentes fonctions sont incluses en arrière-plan (silence) :
 <br/>
--vérification d'existance d'une mise à jour du programme
+-vérification d'existence d'une mise à jour du programme
 <br/>
 -vérification que FFmpeg existe
 
