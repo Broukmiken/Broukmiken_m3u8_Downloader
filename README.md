@@ -3,7 +3,8 @@
 Actuellement version 1.0
 
 
-https://img.shields.io/github/downloads/Broukmiken/Broukmiken_m3u8_Downloader/total
+<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/Broukmiken/Broukmiken_m3u8_Downloader/total">
+
 
 
 <br/><br/>
