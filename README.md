@@ -3,6 +3,8 @@
 Actuellement version 1.0
 
 
+ https://img.shields.io/github/downloads/Broukmiken/Broukmiken_m3u8_Downloader/total.svg
+
 <br/><br/>
 
 Broukmiken m3u8 Downloader est un programme qui permet de télécharger  une  vidéo  diffusée  via  un  flux  m3u8
