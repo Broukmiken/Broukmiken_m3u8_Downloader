@@ -1,9 +1,10 @@
 # $${\color{red}Broukmiken \space  m3u8 \space Downloader}$$
+<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/Broukmiken/Broukmiken_m3u8_Downloader/total">
 
 Actuellement version 1.0
 
 
-<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/Broukmiken/Broukmiken_m3u8_Downloader/total">
+
 
 
 
